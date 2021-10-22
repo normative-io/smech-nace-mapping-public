@@ -1,0 +1,339 @@
+ISIC,,Count of corresponding records in aggregatedSector_v3 (typically 1 per country from Exiobase),Exio Sector name,NACE name,Mapping,Use for BCC?,Simplified sector - to be used in product,,Slimmed,Benchmark mapping sector name,Name + benchmark (filter)
+01,01,49,Cultivation of crops nec,"Crop and animal production, hunting and related service activities",Wrong mapping,,,,,"Crop and animal production, hunting and related service activities",1
+0111,0111,49,Cultivation of oil seeds,"Growing of cereals (except rice), leguminous crops and oil seeds",,x,Oil seed agriculture,,,,1
+0112,0112,30,Cultivation of paddy rice,Growing of rice,,x,Rice agriculture,,,,1
+0113,0113,49,"Cultivation of vegetables, fruit, nuts","Growing of vegetables and melons, roots and tubers",,x,"Vegtables, fruit, nuts agriculture",,,,1
+0114,0114,42,"Cultivation of sugar cane, sugar beet",Growing of sugar cane,,x,Sugar cane and beet agriculture,,,,1
+0115,0115,42,"Cultivation of sugar cane, sugar beet",Growing of tobacco,Wrong mapping,,,,,,
+0119,0119,49,Cultivation of crops nec,Growing of other non-perennial crops,,x,"Agriculture, Crops not elsewhere classified",,,,1
+0141,0141,49,Cattle farming,Milk production and raising of dairy cattle,,,,,,,
+0144,0144,49,Meat animals nec,Raising of camels and camelids,,,,,,,
+0145,0145,49,Pigs farming,Raising of sheep and  goats,Wrong mapping,,,,,,
+0146,0146,49,Poultry farming,Raising of swine/pigs,Wrong mapping,,,,,,
+0149,0149,47,Animal products nec,Raising of other animals,Wrong mapping,,,,,,
+02,02,48,"Forestry, logging and related service activities",Forestry and logging,,x,"Forestry, logging and related service activities",,,Forestry and logging,1
+021,021,48,"Forestry, logging and related service activities",Silviculture and other forestry activities,,,,,,,
+022,022,48,"Forestry, logging and related service activities",Logging,,,,,,,
+024,024,48,"Forestry, logging and related service activities",Support services to forestry,,,,,,,
+03,03,49,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing",Fishing and aquaculture,,x,Fishing and aquaculture,,,Fishing and aquaculture,1
+031,031,49,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing",Fishing,,,,,,,
+032 ,032 ,49,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing",#N/A,,,,,,,
+052,052,47,Mining of coal and lignite; extraction of peat,Mining of lignite,,x,Coal and lignite mining and related services,,,,1
+06,06,39,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",Extraction of crude petroleum and natural gas,,x,Extraction of crude petroleum and natural gas,,,,1
+062,062,41,"Extraction of natural gas and services related to natural gas extraction, excluding surveying",Extraction of natural gas,,,,,,,
+07,07,45,Mining of other non-ferrous metal ores and concentrates,Mining of metal ores,,x,Metal ores mining,,,,1
+071,071,38,Mining of iron ores,Mining of iron ores,,,,,,,
+072,072,45,Mining of other non-ferrous metal ores and concentrates,Mining of non-ferrous metal ores,,,,,,,
+0721,0721,26,Mining of uranium and thorium ores,Mining of uranium and thorium ores,,,,,,,
+08,08,39,Mining of precious metal ores and concentrates,Other mining and quarrying,,x,Other mining and quarrying,,,,1
+0811,0811,44,Quarrying of stone,"Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate",,,,,,,
+0812,0812,49,Quarrying of sand and clay,Operation of gravel and sand pits; mining of clays and kaolin,,,,,,,
+089,089,39,Mining of precious metal ores and concentrates,Mining and quarrying n.e.c.,,,,,,,
+09,09,48,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",Mining support service activities,,,,,,,
+091,091,25,"Extraction, liquefaction, and regasification of other petroleum and gaseous materials",Support activities for petroleum and natural gas extraction,,,,,,,
+10,10,49,Processing of Food products nec,Manufacture of food products,,,,,,,
+1011,1011,49,Processing of meat cattle,Processing and preserving of meat,,x,Cattle meat processing ,,,,1
+1012,1012,49,Processing of meat poultry,Processing and preserving of poultry meat,,x,Poultry meat processing,,,,1
+1013,1013,49,Production of meat products nec,Production of meat and poultry meat products,,,,,,,
+102,102,49,Manufacture of fish products,"Processing and preserving of fish, crustaceans and molluscs",,x,Fish product manufacturing,,,,1
+104,104,49,Processing vegetable oils and fats,Manufacture of vegetable and animal oils and fats,,x,Vegtable oils and fats processing,,,,1
+1051,1051,49,Processing of dairy products,Operation of dairies and cheese making,,x,Dairy products processing,,,,1
+106,106,47,Animal products nec,"Manufacture of grain mill products, starches and starch products",,,,,,,
+107,107,47,Animal products nec,Manufacture of bakery and farinaceous products,,,,,,,
+1081,1081,49,Sugar refining,Manufacture of sugar,,x,Sugar manufacturing,,,,1
+109,109,47,Animal products nec,Manufacture of prepared animal feeds,,,,,,,
+11,11,49,Manufacture of beverages,Manufacture of beverages,,x,Beverage manufacturing,,,,1
+110,110,49,Manufacture of beverages,Manufacture of beverages,,,,,,,
+12,12,44,Manufacture of tobacco products,Manufacture of tobacco products,,x,Tobacco products manufacturing,,,,1
+120,120,44,Manufacture of tobacco products,Manufacture of tobacco products,,,,,,,
+13,13,49,Manufacture of textiles,Manufacture of textiles,,x,Textile manufacturing,,,,1
+131,131,49,Manufacture of textiles,Preparation and spinning of textile fibres,,,,,,,
+132,132,49,Manufacture of textiles,Weaving of textiles,,,,,,,
+133,133,49,Manufacture of textiles,Finishing of textiles,,,,,,,
+139,139,49,Manufacture of textiles,Manufacture of other textiles,,,,,,,
+14,14,49,Manufacture of wearing apparel; dressing and dyeing of fur,Manufacture of wearing apparel,,x,Wearing apparel manufacturing,,,,1
+141,141,49,Manufacture of wearing apparel; dressing and dyeing of fur,"Manufacture of wearing apparel, except fur apparel",,,,,,,
+142,142,49,Manufacture of wearing apparel; dressing and dyeing of fur,Manufacture of articles of fur,,,,,,,
+143,143,49,Manufacture of wearing apparel; dressing and dyeing of fur,Manufacture of knitted and crocheted apparel,,,,,,,
+15,15,48,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear",Manufacture of leather and related products,,x,Leather products manufacturing,,,,1
+151,151,48,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear","Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur",,x,Handbags and footwear manufacturing,,,,1
+1511,1511,49,Processing of dairy products,Tanning and dressing of leather; dressing and dyeing of fur,Wrong mapping,,,,,,
+1519,1519,49,Processing of dairy products,#N/A,Wrong mapping,,,,,,
+152,152,48,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear",Manufacture of footwear,,,,,,,
+16,16,49,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",,x,"Wood and straw products manufacturing, not furniture",,,,1
+162,162,49,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials","Manufacture of products of wood, cork, straw and plaiting materials",,,,,,,
+16291,16291,42,Manufacture of coke oven products,Manufacture of wood fuels,,,,,,,
+17,17,49,Paper,Manufacture of paper and paper products,,x,Paper and paper products manufacturing,,,,1
+171,171,49,Paper,"Manufacture of pulp, paper and paperboard",,,,,,,
+1711,1711,49,Pulp,Manufacture of pulp,,x,Pulp manufacturing,,,,1
+172,172,49,Paper,Manufacture of articles of paper and paperboard,,,,,,,
+18,18,49,"Publishing, printing and reproduction of recorded media",Printing and reproduction of recorded media,,x,"Publishing, printing and reproduction of recorded media",,,,1
+181,181,49,"Publishing, printing and reproduction of recorded media",Printing and service activities related to printing,,,,,,,
+182,182,49,"Publishing, printing and reproduction of recorded media",Reproduction of recorded media,,,,,,,
+19,19,48,Petroleum Refinery,Manufacture of coke and refined petroleum products,,,,,,,
+20,20,49,Chemicals nec,Manufacture of chemicals and chemical products,,,,,,Manufacture of chemicals and chemical products,1
+2011,2011,49,Chemicals nec,Manufacture of industrial gases,,,,,,,
+20110,20110,49,Chemicals nec,Manufacture of industrial gases,,,,,,,
+2015,2015,48,N-fertiliser,Manufacture of fertilisers and nitrogen compounds,,x,Fertiliser manufacturing,,,,1
+2016,2016,49,"Plastics, basic",Manufacture of plastics in primary forms,,x,Basic plastic manufacturing,,,,1
+204,204,49,Chemicals nec,"Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations",,,,,,,
+205,205,49,Chemicals nec,Manufacture of other chemical products,,x,Other chemicals manufacturing,,,,1
+206,206,49,Chemicals nec,Manufacture of man-made fibres,,,,,,,
+21,21,49,Chemicals nec,Manufacture of basic pharmaceutical products and pharmaceutical preparations,,x,Pharmaceutical products manufacturing,,,Manufacture of basic pharmaceutical products and pharmaceutical preparations,1
+211,211,49,Chemicals nec,Manufacture of basic pharmaceutical products,,,,,,,
+212,212,49,Chemicals nec,Manufacture of pharmaceutical preparations,,,,,,,
+22,22,49,Manufacture of rubber and plastic products,Manufacture of rubber and plastic products,,x,Plastic and rubber products manufacturing,,,,1
+222,222,49,Manufacture of rubber and plastic products,Manufacture of plastics products,,,,,,,
+23,23,49,Manufacture of other non-metallic mineral products n.e.c.,Manufacture of other non-metallic mineral products,,x,Non-metallic mineral products manufacturing,,,,1
+231,231,48,Manufacture of glass and glass products,Manufacture of glass and glass products,,x,Glass and glass products manufacturing,,,,1
+2332,2332,49,"Manufacture of bricks, tiles and construction products, in baked clay","Manufacture of bricks, tiles and construction products, in baked clay",,,,,,,
+234,234,49,Manufacture of ceramic goods,Manufacture of other porcelain and ceramic products,,x,Cermaic goods manufacturing,,,,1
+235,235,49,"Manufacture of cement, lime and plaster","Manufacture of cement, lime and plaster",,x,"Cement, lime and plaster manufacturing",,,,1
+24,24,49,Manufacture of basic iron and steel and of ferro-alloys and first products thereof,Manufacture of basic metals,,,,,,,
+241,241,49,Manufacture of basic iron and steel and of ferro-alloys and first products thereof,Manufacture of basic iron and steel and of ferro-alloys,,x,Basic metals manufacturing,,,Manufacture of basic iron and steel and of ferro-alloys,1
+244,244,49,Manufacture of basic iron and steel and of ferro-alloys and first products thereof,Manufacture of basic precious and other non-ferrous metals,,,,,,,
+2441,2441,49,Precious metals production,Precious metals production,,,,,,,
+2442,2442,49,Aluminium production,Aluminium production,,x,Aluminium production,,,,1
+2443,2443,49,"Lead, zinc and tin production","Lead, zinc and tin production",,x,"Lead, zinc and tin production",,,,1
+2444,2444,49,Copper production,Copper production,,x,Copper production,,,,1
+2445,2445,49,Other non-ferrous metal production,Other non-ferrous metal production,,,,,,,
+2446,2446,46,Processing of nuclear fuel,Processing of nuclear fuel,,,,,,,
+245,245,45,Casting of metals,Casting of metals,,x,Casting of metals,,,,1
+25,25,49,"Manufacture of fabricated metal products, except machinery and equipment","Manufacture of fabricated metal products, except machinery and equipment",,x,Metal products manufacturing,,,,1
+251,251,49,"Manufacture of fabricated metal products, except machinery and equipment",Manufacture of structural metal products,,,,,,,
+252,252,49,"Manufacture of fabricated metal products, except machinery and equipment","Manufacture of tanks, reservoirs and containers of metal",,,,,,,
+253,253,49,"Manufacture of fabricated metal products, except machinery and equipment","Manufacture of steam generators, except central heating hot water boilers",Wrong mapping,,,,,,
+254,254,49,"Manufacture of fabricated metal products, except machinery and equipment",Manufacture of weapons and ammunition,,,,,,,
+255,255,49,"Manufacture of fabricated metal products, except machinery and equipment","Forging, pressing, stamping and roll-forming of metal; powder metallurgy",,,,,,,
+256,256,49,"Manufacture of fabricated metal products, except machinery and equipment",Treatment and coating of metals; machining,,,,,,,
+257,257,49,"Manufacture of fabricated metal products, except machinery and equipment","Manufacture of cutlery, tools and general hardware",,,,,,,
+259,259,49,"Manufacture of fabricated metal products, except machinery and equipment",Manufacture of other fabricated metal products,,,,,,,
+26,26,49,"Manufacture of radio, television and communication equipment and apparatus","Manufacture of computer, electronic and optical products",Wrong mapping,x,"Phone, radio and television manufacturing",,,,1
+261,261,49,"Manufacture of radio, television and communication equipment and apparatus",Manufacture of electronic components and boards,Wrong mapping,,,,,,
+263,263,49,"Manufacture of radio, television and communication equipment and apparatus",Manufacture of communication equipment,Wrong mapping,,,,,,
+264,264,49,"Manufacture of radio, television and communication equipment and apparatus",Manufacture of consumer electronics,Wrong mapping,,,,,,
+265,265,49,"Manufacture of radio, television and communication equipment and apparatus","Manufacture of instruments and appliances for measuring, testing and navigation; watches and clocks",Wrong mapping,,,,,,
+266,266,49,"Manufacture of radio, television and communication equipment and apparatus","Manufacture of irradiation, electromedical and electrotherapeutic equipment",Wrong mapping,,,,,,
+267,267,49,"Manufacture of medical, precision and optical instruments, watches and clocks",Manufacture of optical instruments and photographic equipment,,x,Optical instruments manufacturing,,,,1
+268,268,49,"Manufacture of medical, precision and optical instruments, watches and clocks",Manufacture of magnetic and optical media,,,,,,,
+27,27,49,Manufacture of electrical machinery and apparatus n.e.c.,Manufacture of electrical equipment,,x,Electrical machinery and apparaturs manufacturing,,,,1
+271,271,49,Manufacture of electrical machinery and apparatus n.e.c.,"Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus",,,,,,,
+272,272,49,Manufacture of electrical machinery and apparatus n.e.c.,Manufacture of batteries and accumulators,,,,,,,
+273,273,49,Manufacture of electrical machinery and apparatus n.e.c.,Manufacture of wiring and wiring devices,,,,,,,
+274,274,49,Manufacture of electrical machinery and apparatus n.e.c.,Manufacture of electric lighting equipment,,,,,,,
+275,275,49,Manufacture of electrical machinery and apparatus n.e.c.,Manufacture of domestic appliances,,,,,,,
+279,279,49,Manufacture of electrical machinery and apparatus n.e.c.,Manufacture of other electrical equipment,,,,,,,
+28,28,49,Manufacture of machinery and equipment n.e.c.,Manufacture of machinery and equipment n.e.c.,,,,,,,
+281,281,49,Manufacture of machinery and equipment n.e.c.,Manufacture of general-purpose machinery,,,,,,,
+282,282,49,Manufacture of machinery and equipment n.e.c.,Manufacture of other general-purpose machinery,,x,Other machinery manufacturing,,,,1
+2825,2825,49,Chemicals nec,Manufacture of non-domestic cooling and ventilation equipment,Wrong mapping,,,,,,
+283,283,49,Manufacture of machinery and equipment n.e.c.,Manufacture of agricultural and forestry machinery,,,,,,,
+284,284,49,Manufacture of machinery and equipment n.e.c.,Manufacture of metal forming machinery and machine tools,,,,,,,
+289,289,49,Manufacture of machinery and equipment n.e.c.,Manufacture of other special-purpose machinery,,,,,,,
+29,29,49,"Manufacture of motor vehicles, trailers and semi-trailers","Manufacture of motor vehicles, trailers and semi-trailers",,x,Motor vehicle manufacturing,,,,1
+291,291,49,"Manufacture of motor vehicles, trailers and semi-trailers",Manufacture of motor vehicles,,,,,,,
+292,292,49,Manufacture of other transport equipment,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,Wrong mapping,,,,,,
+293,293,49,Manufacture of other transport equipment,Manufacture of parts and accessories for motor vehicles,,,,,,,
+30,30,49,Manufacture of other transport equipment,Manufacture of other transport equipment,,x,Other transport equipment manufacturing,,,,1
+301,301,49,Manufacture of other transport equipment,Building of ships and boats,,,,,,,
+302,302,49,Manufacture of other transport equipment,Manufacture of railway locomotives and rolling stock,,,,,,,
+303,303,49,Manufacture of other transport equipment,Manufacture of air and spacecraft and related machinery,,,,,,,
+304,304,49,Manufacture of other transport equipment,Manufacture of military fighting vehicles,,,,,,,
+309,309,49,Manufacture of other transport equipment,Manufacture of transport equipment n.e.c.,,,,,,,
+31,31,49,Manufacture of furniture; manufacturing n.e.c.,Manufacture of furniture,,x,Furniture manufacturing,,,,1
+310,310,49,Manufacture of furniture; manufacturing n.e.c.,Manufacture of furniture,,,,,,,
+32,32,49,Manufacture of furniture; manufacturing n.e.c.,Other manufacturing,,x,Other manufacturing,,,,1
+321,321,49,Manufacture of machinery and equipment n.e.c.,"Manufacture of jewellery, bijouterie and related articles",Wrong mapping,,,,,,
+322,322,49,Manufacture of machinery and equipment n.e.c.,Manufacture of musical instruments,Wrong mapping,,,,,,
+323,323,49,Manufacture of machinery and equipment n.e.c.,Manufacture of sports goods,Wrong mapping,,,,,,
+324,324,49,Manufacture of machinery and equipment n.e.c.,Manufacture of games and toys,Wrong mapping,,,,,,
+325,325,49,"Manufacture of medical, precision and optical instruments, watches and clocks",Manufacture of medical and dental equipment,,x,Medical equipment manufacturing,,,,1
+329,329,49,Manufacture of machinery and equipment n.e.c.,Manufacturing n.e.c.,Wrong mapping,,,,,Manufacturing n.e.c.,1
+33,33,49,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",Repair and installation of machinery and equipment,Wrong mapping,,,,,,
+331,331,49,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries","Repair of fabricated metal products, machinery and equipment",Wrong mapping,,,,,,
+332,332,49,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",Installation of industrial machinery and equipment,Wrong mapping,,,,,,
+351,351,49,Distribution and trade of electricity,"Electric power generation, transmission and distribution",,,,,Wrong mapping->,"Electricity, gas, steam and air conditioning supply",1
+3512,3512,49,Transmission of electricity,Transmission of electricity,,x,Electricity transmission,,,,1
+3513,3513,49,Transmission of electricity,Distribution of electricity,,,,,,,
+352,352,49,Manufacture of gas; distribution of gaseous fuels through mains,Manufacture of gas; distribution of gaseous fuels through mains,,,,,,,
+353,353,38,Steam and hot water supply,Steam and air conditioning supply,,x,Steam and hot water supply,,,,1
+36,36,49,"Collection, purification and distribution of water","Water collection, treatment and supply",Wrong mapping,,,,,Utilities,1
+37,37,49,"Waste water treatment, other",Sewerage,,,,,,,
+38,38,45,Landfill of waste: Inert/metal/hazardous,"Waste collection, treatment and disposal activities; materials recovery",,,,,,,
+3821,3821,45,Recycling of waste and scrap,Treatment and disposal of non-hazardous waste,,,,,,,
+3832,3832,19,Recycling of bottles by direct reuse,Recovery of sorted materials,,,,,,,
+39,39,45,Landfill of waste: Inert/metal/hazardous,Remediation activities and other waste management services,,,,,,,
+41,41,49,Construction,Construction of buildings,,x,Construction and civil engineering,,,Construction of buildings,1
+411,411,49,Research and development,Development of building projects,,,,,,,
+42,42,49,Construction,Civil engineering,,,,,,,
+43,43,49,Construction,Specialised construction activities,,,,,,,
+431,431,49,Construction,Demolition and site preparation,,,,,,,
+432,432,49,Construction,"Electrical, plumbing and other construction installation activities",,,,,,,
+433,433,49,Construction,Building completion and finishing,,,,,,,
+439,439,49,Construction,Other specialised construction activities,,,,,,,
+45,45,49,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",Wholesale and retail trade and repair of motor vehicles and motorcycles,,x,Motor vehicles sale and repair,,,,1
+454,454,49,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries","Sale, maintenance and repair of motorcycles and related parts and accessories",,,,,,,
+46,46,49,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Wholesale trade, except of motor vehicles and motorcycles",,x,Retail and wholesale,,,Retail sale in non-specialised stores,1
+4611,4611,49,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished goods",,,,,,,
+4612,4612,49,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Agents involved in the sale of fuels, ores, metals and industrial chemicals",,,,,,,
+4613,4613,49,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",Agents involved in the sale of timber and building materials,,,,,,,
+4614,4614,49,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Agents involved in the sale of machinery, industrial equipment, ships and aircraft",,,,,,,
+4615,4615,49,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Agents involved in the sale of furniture, household goods, hardware and ironmongery",,,,,,,
+4616,4616,49,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Agents involved in the sale of textiles, clothing, fur, footwear and leather goods",,,,,,,
+4617,4617,49,"Wholesale trade and commission trade, except of motor vehicles and motorcycles","Agents involved in the sale of food, beverages and tobacco",,,,,,,
+4618,4618,49,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",Agents specialised in the sale of other particular products,,,,,,,
+4619,4619,49,"Wholesale trade and commission trade, except of motor vehicles and motorcycles",Agents involved in the sale of a variety of goods,,,,,,,
+47,47,49,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods","Retail trade, except of motor vehicles and motorcycles",,,,,,,
+491,491,49,Transport via railways,"Passenger rail transport, interurban",,x,Railway transport,,,,1
+493,493,49,Other land transport,Other passenger land transport,,x,Land transport,,,Other passenger land transport,1
+495,495,49,Transport via pipelines,Transport via pipeline,,,,,,,
+50,50,48,Sea and coastal water transport,Water transport,,x,Water transport,,,,1
+501,501,48,Inland water transport,Sea and coastal passenger water transport,,,,,,,
+502,502,48,Sea and coastal water transport,Sea and coastal freight water transport,,,,,,,
+503,503,48,Inland water transport,Inland passenger water transport,,,,,,,
+504,504,48,Sea and coastal water transport,Inland freight water transport,,,,,,,
+51,51,49,Air transport,Air transport,,x,Air transport,,,,1
+511,511,49,Air transport,Passenger air transport,,,,,,,
+52,52,49,Supporting and auxiliary transport activities; activities of travel agencies,Warehousing and support activities for transportation,,x,Warehousing and support activities for transportation,,,,1
+521,521,49,Supporting and auxiliary transport activities; activities of travel agencies,Warehousing and storage,,,,,,,
+522,522,49,Supporting and auxiliary transport activities; activities of travel agencies,Support activities for transportation,,,,,,,
+5222,5222,48,Sea and coastal water transport,Service activities incidental to water transportation,Wrong mapping,,,,,,
+5223,5223,49,Air transport,Service activities incidental to air transportation,Wrong mapping,,,,,,
+5229,5229,49,Supporting and auxiliary transport activities; activities of travel agencies,Other transportation support activities,,,,,,Other transportation support activities,1
+53,53,49,Post and telecommunications,Postal and courier activities,Wrong mapping ,,,,,,
+531,531,49,Post and telecommunications,Postal activities under universal service obligation,,x,Postal services,,,,1
+559,559,49,Hotels and restaurants,Other accommodation,,x,Hotels and similar accommodation,,,Hotels and similar accommodation,1
+56,56,49,Hotels and restaurants,Food and beverage service activities,,x,Restaurants,,,Food and beverage service activities,1
+561,561,49,Hotels and restaurants,Restaurants and mobile food service activities,,,,,,,
+5610,5610,49,Hotels and restaurants,Restaurants and mobile food service activities,,,,,,,
+562,562,49,Hotels and restaurants,Event catering and other food service activities,,,,,,,
+563,563,49,Hotels and restaurants,Beverage serving activities,,,,,,,
+58,58,49,"Publishing, printing and reproduction of recorded media",Publishing activities,,,,,,Publishing activities,1
+581,581,49,"Publishing, printing and reproduction of recorded media","Publishing of books, periodicals and other publishing activities",,x,Publishing services,,,,1
+582,582,49,"Publishing, printing and reproduction of recorded media",Software publishing,Wrong mapping ,,,,,,
+59,59,49,"Publishing, printing and reproduction of recorded media","Motion picture, video and television programme production, sound recording and music publishing activities",,x,Video and movie production,,,,1
+591,591,49,"Publishing, printing and reproduction of recorded media","Motion picture, video and television programme activities",,,,,,,
+592,592,49,"Publishing, printing and reproduction of recorded media",Sound recording and music publishing activities,,,,,,,
+60,60,48,"Recreational, cultural and sporting activities",Programming and broadcasting activities,Wrong mapping,,,,,Programming and broadcasting activities,1
+601,601,48,"Recreational, cultural and sporting activities",Radio broadcasting,,,,,,,
+602,602,48,"Recreational, cultural and sporting activities",Television programming and broadcasting activities,Wrong mappin g,,,,,,
+61,61,49,Post and telecommunications,Telecommunications,,x,Telecommunication,,,Telecommunications,1
+611,611,49,Post and telecommunications,Wired telecommunications activities,,,,,,,
+612,612,49,Post and telecommunications,Wireless telecommunications activities,,,,,,,
+613,613,49,Post and telecommunications,Satellite telecommunications activities,,,,,,,
+619,619,49,Post and telecommunications,Other telecommunications activities,,,,,,,
+62,62,49,Computer and related activities,"Computer programming, consultancy and related activities",,x,"Information technology (IT), software and computer related activities",,,Other information technology and computer service activities,1
+620,620,49,Computer and related activities,"Computer programming, consultancy and related activities",,,,,,,
+63,63,49,Computer and related activities,Information service activities,,,,,,,
+631,631,49,Computer and related activities,"Data processing, hosting and related activities; web portals",,,,,,,
+639,639,49,Computer and related activities,Other information service activities,,,,,,,
+64,64,49,"Financial intermediation, except insurance and pension funding","Financial service activities, except insurance and pension funding",,x,"Financial actor, not insurance and pension",,,"Financial service activities, except insurance and pension funding",1
+641,641,49,"Financial intermediation, except insurance and pension funding",Monetary intermediation,,,,,,,
+642,642,49,"Financial intermediation, except insurance and pension funding",Activities of holding companies,,,,,,,
+643,643,49,"Financial intermediation, except insurance and pension funding","Trusts, funds and similar financial entities",,,,,,,
+6491,6491,49,Renting of machinery and equipment without operator and of personal and household goods,Financial leasing,Wrong mapping,,,,,,
+65,65,49,"Insurance and pension funding, except compulsory social security","Insurance, reinsurance and pension funding, except compulsory social security",,x,Insurance and pension funding ,,,"Insurance, reinsurance and pension funding, except compulsory social security",1
+651,651,49,"Insurance and pension funding, except compulsory social security",Insurance,,,,,,,
+652,652,49,"Insurance and pension funding, except compulsory social security",Reinsurance,,,,,,,
+653,653,49,"Insurance and pension funding, except compulsory social security",Pension funding,,,,,,,
+66,66,49,Activities auxiliary to financial intermediation,Activities auxiliary to financial services and insurance activities,,x,Activities auxiliary to financial intermediation,,,,1
+661,661,49,Activities auxiliary to financial intermediation,"Activities auxiliary to financial services, except insurance and pension funding",,,,,,,
+662,662,49,Activities auxiliary to financial intermediation,Activities auxiliary to insurance and pension funding,,,,,,,
+663,663,49,"Financial intermediation, except insurance and pension funding",Fund management activities,,,,,,,
+68,68,49,Real estate activities,Real estate activities,,x,Real estate activities,,,Real estate activities,1
+681,681,49,Real estate activities,Buying and selling of own real estate,,,,,,,
+682,682,49,Real estate activities,Renting and operating of own or leased real estate,,,,,,,
+683,683,49,Real estate activities,Real estate activities on a fee or contract basis,,,,,,,
+69,69,49,Other business activities,Legal and accounting activities,,x,"Other business activities (consultancy, legal, accounting services, advertising, employment activities)",,,,1
+691,691,49,Other business activities,Legal activities,,,,,,Legal activities,1
+692,692,49,Other business activities,"Accounting, bookkeeping and auditing activities; tax consultancy",,,,,,"Accounting, bookkeeping and auditing activities; tax consultancy",1
+70,70,48,Other service activities,Activities of head offices; management consultancy activities,,,,,,,
+701,701,48,Other service activities,Activities of head offices,,,,,,,
+702,702,48,Other service activities,Management consultancy activities,,,,,,Business and other management consultancy activities,1
+71,71,49,Research and development,Architectural and engineering activities; technical testing and analysis,,,,,,,
+711,711,49,Research and development,Architectural and engineering activities and related technical consultancy,,,,,,,
+712,712,49,Research and development,Technical testing and analysis,,,,,,,
+72,72,49,Research and development,Scientific research and development,,x,Research and development,,,Scientific research and development,1
+721,721,49,Research and development,Research and experimental development on natural sciences and engineering,,,,,,,
+722,722,49,Research and development,Research and experimental development on social sciences and humanities,,,,,,,
+73,73,49,Other business activities,Advertising and market research,,,,,,Advertising and market research,1
+731,731,49,Other business activities,Advertising,,,,,,,
+732,732,49,Other business activities,Market research and public opinion polling,,,,,,,
+74,74,49,Other business activities,"Other professional, scientific and technical activities",,,,,,,
+741,741,49,Other business activities,Specialised design activities,,,,,,,
+742,742,49,Other business activities,Photographic activities,,,,,,,
+743,743,49,Other business activities,Translation and interpretation activities,,,,,,,
+749,749,49,Other business activities,"Other professional, scientific and technical activities n.e.c.",,,,,,,
+75,75,49,Health and social work,Veterinary activities,,,,,,,
+750,750,49,Health and social work,Veterinary activities,,,,,,,
+77,77,49,Renting of machinery and equipment without operator and of personal and household goods,Rental and leasing activities,,,,,,,
+771,771,49,Renting of machinery and equipment without operator and of personal and household goods,Renting and leasing of motor vehicles,Wrong mapping,,,,,,
+772,772,49,Renting of machinery and equipment without operator and of personal and household goods,Renting and leasing of personal and household goods,,,,,,,
+773,773,49,Renting of machinery and equipment without operator and of personal and household goods,"Renting and leasing of other machinery, equipment and tangible goods",,x,Machinery and equipment rental,,,,1
+7739,7739,49,Renting of machinery and equipment without operator and of personal and household goods,"Renting and leasing of other machinery, equipment and tangible goods n.e.c.",,,,,,,
+78,78,49,Other business activities,Employment activities,,,,,,,
+781,781,49,Other business activities,Activities of employment placement agencies,,,,,,,
+782,782,49,Other business activities,Temporary employment agency activities,,,,,,,
+783,783,49,Other business activities,Other human resources provision,,,,,,,
+79,79,49,Air transport,"Travel agency, tour operator and other reservation service and related activities",Wrong mapping!!!,,,,,"Travel agency, tour operator and other reservation service and related activities",1
+80,80,49,Public administration and defence; compulsory social security,Security and investigation activities,,,,,,,
+801,801,49,Public administration and defence; compulsory social security,Private security activities,,,,,,,
+802,802,49,Public administration and defence; compulsory social security,Security systems service activities,,,,,,,
+803,803,49,Public administration and defence; compulsory social security,Investigation activities,,,,,,,
+81,81,48,Other service activities,Services to buildings and landscape activities,,x,Building services,,,,1
+811,811,48,Other service activities,Combined facilities support activities,,,,,,,
+812,812,48,Other service activities,Cleaning activities,,,,,,,
+813,813,48,Other service activities,Landscape service activities,,,,,,,
+82,82,49,Other business activities,"Office administrative, office support and other business support activities",,,,,,,
+821,821,49,Other business activities,Office administrative and support activities,,,,,,,
+822,822,49,Other business activities,Activities of call centres,,,,,,,
+823,823,49,Other business activities,Organisation of conventions and trade shows,,,,,,,
+829,829,49,Other business activities,Business support service activities n.e.c.,,,,,,,
+84,84,49,Public administration and defence; compulsory social security,Public administration and defence; compulsory social security,,x,Public administration and defence; compulsory social security,,,,1
+841,841,49,Public administration and defence; compulsory social security,Administration of the State and the economic and social policy of the community,,,,,,,
+842,842,49,Public administration and defence; compulsory social security,Provision of services to the community as a whole,,,,,,,
+843,843,49,Public administration and defence; compulsory social security,Compulsory social security activities,,,,,,,
+85,85,49,Education,Education,,x,Education,,,,1
+851,851,49,Education,Pre-primary education,,,,,,,
+852,852,49,Education,Primary education,,,,,,,
+853,853,49,Education,Secondary education,,,,,,,
+854,854,49,Education,Higher education,,,,,,,
+855,855,49,Education,Other education,,,,,,,
+856,856,49,Education,Educational support activities,,,,,,,
+86,86,49,Health and social work,Human health activities,,x,Health and social work ,,,,1
+861,861,49,Health and social work,Hospital activities,,,,,,,
+862,862,49,Health and social work,Medical and dental practice activities,,,,,,,
+869,869,49,Health and social work,Other human health activities,,,,,,,
+87,87,49,Health and social work,Residential care activities,,,,,,,
+871,871,49,Health and social work,Residential nursing care activities,,,,,,,
+872,872,49,Health and social work,"Residential care activities for mental retardation, mental health and substance abuse",,,,,,,
+873,873,49,Health and social work,Residential care activities for the elderly and disabled,,,,,,,
+879,879,49,Health and social work,Other residential care activities,,,,,,,
+88,88,49,Health and social work,Social work activities without accommodation,,,,,,,
+881,881,49,Health and social work,Social work activities without accommodation for the elderly and disabled,,,,,,,
+889,889,49,Health and social work,Other social work activities without accommodation,,,,,,,
+90,90,48,"Recreational, cultural and sporting activities","Creative, arts and entertainment activities",,x,"Creative, arts and entertainment activities",,,Artistic creation,1
+900,900,48,"Recreational, cultural and sporting activities","Creative, arts and entertainment activities",,,,,,,
+91,91,48,"Recreational, cultural and sporting activities","Libraries, archives, museums and other cultural activities",,,,,,,
+910,910,48,"Recreational, cultural and sporting activities","Libraries, archives, museums and other cultural activities",,,,,,,
+92,92,48,"Recreational, cultural and sporting activities",Gambling and betting activities,,,,,,,
+920,920,48,"Recreational, cultural and sporting activities",Gambling and betting activities,,,,,,,
+93,93,48,"Recreational, cultural and sporting activities",Sports activities and amusement and recreation activities,,,,,,,
+931,931,48,"Recreational, cultural and sporting activities",Sports activities,,,,,,,
+932,932,48,"Recreational, cultural and sporting activities",Amusement and recreation activities,,,,,,,
+94,94,48,Activities of membership organisation n.e.c.,Activities of membership organisations,,x,Activities of membership organisations,,,Activities of membership organisations,1
+941,941,48,Activities of membership organisation n.e.c.,"Activities of business, employers and professional membership organisations",,,,,,,
+942,942,49,Other business activities,Activities of trade unions,,,,,,,
+949,949,48,Activities of membership organisation n.e.c.,Activities of other membership organisations,,,,,,,
+95,95,49,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods",Repair of computers and personal and household goods,,,,,,,
+951,951,49,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods",Repair of computers and communication equipment,,,,,,,
+952,952,49,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods",Repair of personal and household goods,,x,"Repair, household goods",,,,1
+96,96,48,Other service activities,Other personal service activities,,x,Other service activies,,,,1
+960,960,48,Other service activities,Other personal service activities,,,,,,,
+97,97,45,Private households with employed persons,Activities of households as employers of domestic personnel,,,,,,,
+970,970,45,Private households with employed persons,Activities of households as employers of domestic personnel,,,,,,,
+98,98,45,Private households with employed persons,Undifferentiated goods- and services-producing activities of private households for own use,,,,,,,
+981,981,45,Private households with employed persons,Undifferentiated goods-producing activities of private households for own use,,,,,,,
+982,982,45,Private households with employed persons,Undifferentiated service-producing activities of private households for own use,,,,,,,
+99,99,48,Other service activities,Activities of extraterritorial organisations and bodies,,,,,,,
+990,990,48,Other service activities,Activities of extraterritorial organisations and bodies,,,,,,,

@@ -1,0 +1,40 @@
+All sectors - SME climate hub,Nace/ISIC (used by SME-CH do not modify),Nace names that match,Mapping based on Exio2,New mapping based on Exio3,Mapping BCC sector list,,,,Concerns in mapping from v2 to v3,nace,exioName
+Accounting,6920,"Accounting, bookkeeping and auditing activities; tax consultancy",6910,692,69,#N/A,,,,35,"Electricity, gas, steam and air conditioning supply"
+Activities of membership organizations,94,Activities of membership organisations,9499,94,94,5,,,,241,Manufacture of basic iron and steel and of ferro-alloys and first products thereof
+Advertising and market research,73,Advertising and market research,7311,73,69,19,,,,72,Research and development
+"Agriculture, forestry and fishing",1,"Crop and animal production, hunting and related service activities",142,01,0119,#N/A,too broad,,"Does ""crop and animal production"" map to ""manufacture of textiles""?",58,"Publishing, printing and reproduction of recorded media"
+"Crop and animal production, hunting and related service activities",1,"Crop and animal production, hunting and related service activities",142,01,0119,13,,,"Does ""crop and animal production"" map to ""manufacture of textiles""?",94,Activities of membership organisation n.e.c.
+Forestry and Logging,2,Forestry and logging,2830,02,02,11,,,,471,Retail sale in non-specialised stores
+Fishing and Aquaculture,3,Fishing and aquaculture,312,03,03,23,,,,61,Post and telecommunications
+Arts,9003,Artistic creation,9004,90,90,31,,,,21,Chemicals nec
+"Arts, entertainment and recreation",900,"Creative, arts and entertainment activities",9004,90,90,17,,,,20,Chemicals nec
+Banking and Financial services other than insurance,64,"Financial service activities, except insurance and pension funding",6499,64,64,15,,,,41,Construction
+Chemicals,20,Manufacture of chemicals and chemical products,2059,20,205,9,,,,2,"Forestry, logging and related service activities"
+Construction,41,Construction of buildings,4120,41,41,10,,,,329,Manufacture of machinery and equipment n.e.c.
+Consultancy services other than legal,7022,Business and other management consultancy activities,7010,702,69,32,,,,1,Cultivation of crops nec
+Consumer goods other than food and beverages,471,Retail sale in non-specialised stores,4711,46,46,6,,,471 does not exist in v3,65,"Insurance and pension funding, except compulsory social security"
+Education and research,72,Scientific research and development,8510,72,72,3,,,,64,"Financial intermediation, except insurance and pension funding"
+Energy,35,"Electricity, gas, steam and air conditioning supply",3513,351,3512,1,35,This should be generation and distribution not just the latter,,642,"Financial intermediation, except insurance and pension funding"
+Food and beverages,56,Food and beverage service activities,5610,56,56,24,,,,900,"Recreational, cultural and sporting activities"
+Heavy industries,241,Manufacture of basic iron and steel and of ferro-alloys,2410,241,241,2,too broad,,,60,"Recreational, cultural and sporting activities"
+Information technology,6209,Other information technology and computer service activities,6201,62,62,30,,,,73,Other business activities
+Insurance services,65,"Insurance, reinsurance and pension funding, except compulsory social security",6530,65,65,14,,,,691,Other business activities
+Legal services,6910,Legal activities,6910,691,69,#N/A,,,,692,Other business activities
+Manufacturing,329,Manufacturing n.e.c.,3291,329,32,12,Too broad,,,68,Real estate activities
+Miscellaneous/conglomerate,642,Activities of holding companies,6499,64,69,16,Too broad,,,3,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing"
+Other,2,Other business activities,7500,02,,#N/A,Too broad,,"Does ""Other business activities"" map well to ""Forestry and logging""?",56,Hotels and restaurants
+"Pharmaceuticals, biotechnology and life sciences",21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,2680,21,21,8,No good match,,,79,Air transport
+Press,60,Programming and broadcasting activities,6020,60,18,18,Not ideal,,"Does ""programming and broadcasting"" map well to ""Recreational, cultural and sporting activities""?",36,"Collection, purification and distribution of water"
+Publishing activities,58,Publishing activities,5814,58,18,4,,,,5229,Supporting and auxiliary transport activities; activities of travel agencies
+Real estate,68,Real estate activities,6831,68,68,22,,,,5510,Hotels and restaurants
+Telecommunications & specialized technologies,61,Telecommunications,6110,61,61,7,,,,55,Hotels and restaurants
+Tourism & hospitality,5510,Hotels and similar accommodation,5510,559,559,28,Too Broad,,,6209,Computer and related activities
+Proposed - Travel Services,79,"Travel agency, tour operator and other reservation service and related activities",7911,79,52,25,,,,9003,"Recreational, cultural and sporting activities"
+Proposed - Hospitality,55,Accommodation,5510,559,559,29,,,,7022,Other service activities
+Transportation,493,Other passenger land transport,4939,493,493,33,,,,493,Other land transport
+"Transportation, logistics and storage",5229,Other transportation support activities,5210,5229,52,27,,,,,
+Utilities,36,Utilities,3600,36,353,26,,,,,
+Wholesale and retail trade,471,Retail sale in non-specialised stores,4711,46,46,6,,,,,
+"Crop and animal production, hunting and related service activities",01,"Crop and animal production, hunting and related service activities",142,01,0119,,These deliberately duplicate rows above with alternate SMECH codes,,,,
+Forestry and Logging,02,Forestry and logging,2830,02,02,,,,,,
+Fishing and Aquaculture,03,Fishing and aquaculture,312,03,03,,,,,,
